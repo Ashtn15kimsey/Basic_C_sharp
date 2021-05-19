@@ -1,0 +1,7 @@
+C:\Users\ash\Desktop\Basic_C#_Programs\VariablesAndDatatypes\VariablesAndDatatypes\bin\Debug\VariablesAndDatatypes.exe.config
+C:\Users\ash\Desktop\Basic_C#_Programs\VariablesAndDatatypes\VariablesAndDatatypes\bin\Debug\VariablesAndDatatypes.exe
+C:\Users\ash\Desktop\Basic_C#_Programs\VariablesAndDatatypes\VariablesAndDatatypes\bin\Debug\VariablesAndDatatypes.pdb
+C:\Users\ash\Desktop\Basic_C#_Programs\VariablesAndDatatypes\VariablesAndDatatypes\obj\Debug\VariablesAndDatatypes.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\Basic_C#_Programs\VariablesAndDatatypes\VariablesAndDatatypes\obj\Debug\VariablesAndDatatypes.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C#_Programs\VariablesAndDatatypes\VariablesAndDatatypes\obj\Debug\VariablesAndDatatypes.exe
+C:\Users\ash\Desktop\Basic_C#_Programs\VariablesAndDatatypes\VariablesAndDatatypes\obj\Debug\VariablesAndDatatypes.pdb
