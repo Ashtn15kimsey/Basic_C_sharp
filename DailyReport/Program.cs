@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace classSubmission.Asg
+namespace DailyReport
 {
     class Program
     {
-        public static string experience { get; private set; }
-
         static void Main(string[] args)
         {
             // Welcome that's always present when the program is runnin, meaning you don't need to press enter to have it pop up.
@@ -28,10 +26,10 @@ namespace classSubmission.Asg
             Console.WriteLine("what page number are you on?");
             int pageNumber = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Do you need help anything ? please answer true or false");
-            bool needAssitance = Convert.ToBoolean(Console.ReadLine());
+            Console.WriteLine("Do you need help anything ? please answer 'true' or 'false'");
+            bool helpNeeded = Convert.ToBoolean(Console.ReadLine());
 
-            string experience = "where there any postive experiences you'd like to share? please give specefics.");
+            string experience = ("Were there any postive expereinces you'd like to share? please give specifics.");
             Console.WriteLine(experience);
             Console.ReadLine();
 
