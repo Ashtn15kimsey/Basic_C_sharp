@@ -36,12 +36,12 @@ namespace Anonymous_Income_Comparison_Program
 
             int weeks1 = 52;
             double result = person1Rate * person1Hours * weeks1;
-            Console.WriteLine("anual salary for person1");
+            Console.WriteLine("anual salary for person1:\n" + result);
             Console.ReadLine();
 
             int weeks2 = 52;
             double result6 = person2Rate * person2Hours * weeks2;
-            Console.WriteLine("anual salray for person2");
+            Console.WriteLine("anual salray for person2:\n" + result6);
             Console.ReadLine();
 
             bool result3 = weeks1 > weeks2;
