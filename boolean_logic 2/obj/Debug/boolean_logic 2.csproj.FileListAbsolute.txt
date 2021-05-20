@@ -1,0 +1,7 @@
+C:\Users\ash\Desktop\Basic_C_sharp\boolean_logic 2\bin\Debug\boolean_logic 2.exe.config
+C:\Users\ash\Desktop\Basic_C_sharp\boolean_logic 2\bin\Debug\boolean_logic 2.exe
+C:\Users\ash\Desktop\Basic_C_sharp\boolean_logic 2\bin\Debug\boolean_logic 2.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\boolean_logic 2\obj\Debug\boolean_logic 2.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\Basic_C_sharp\boolean_logic 2\obj\Debug\boolean_logic 2.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\boolean_logic 2\obj\Debug\boolean_logic 2.exe
+C:\Users\ash\Desktop\Basic_C_sharp\boolean_logic 2\obj\Debug\boolean_logic 2.pdb
