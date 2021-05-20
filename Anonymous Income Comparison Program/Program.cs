@@ -34,12 +34,12 @@ namespace Anonymous_Income_Comparison_Program
             Console.WriteLine("hours worked per week?");
             int person2Hours = Convert.ToInt32(Console.ReadLine());
 
-            int weeks1 = 15;
+            int weeks1 = 52;
             double result = person1Rate * person1Hours * weeks1;
             Console.WriteLine("anual salary for person1");
             Console.ReadLine();
 
-            int weeks2 = 45;
+            int weeks2 = 52;
             double result6 = person2Rate * person2Hours * weeks2;
             Console.WriteLine("anual salray for person2");
             Console.ReadLine();
