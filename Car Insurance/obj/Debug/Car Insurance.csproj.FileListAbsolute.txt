@@ -1,0 +1,6 @@
+C:\Users\ash\Desktop\Basic_C_sharp\Car Insurance\bin\Debug\Car Insurance.exe.config
+C:\Users\ash\Desktop\Basic_C_sharp\Car Insurance\bin\Debug\Car Insurance.exe
+C:\Users\ash\Desktop\Basic_C_sharp\Car Insurance\bin\Debug\Car Insurance.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\Car Insurance\obj\Debug\Car Insurance.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\Car Insurance\obj\Debug\Car Insurance.exe
+C:\Users\ash\Desktop\Basic_C_sharp\Car Insurance\obj\Debug\Car Insurance.pdb

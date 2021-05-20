@@ -33,10 +33,10 @@ namespace boolean_logic_2
             //Console.ReadLine();
 
             //x OR operator
-            Console.WriteLine(true ^ true);
-            Console.WriteLine(true ^ false);
-            Console.WriteLine(false ^ false);
-            Console.ReadLine();
+            //Console.WriteLine(true ^ true);
+            //Console.WriteLine(true ^ false);
+            //Console.WriteLine(false ^ false);
+            //Console.ReadLine();
 
 
 
