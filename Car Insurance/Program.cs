@@ -19,7 +19,7 @@ namespace Car_Insurance
             Console.WriteLine("how many speeding tickets have you had?");
             int tickets = Convert.ToInt32(Console.ReadLine());
 
-            if (age < 15 || DUI != false || tickets <3 );
+            if (age < 15 || DUI != false || tickets <3 )
             {
                 Console.WriteLine("You qualify");
             }
