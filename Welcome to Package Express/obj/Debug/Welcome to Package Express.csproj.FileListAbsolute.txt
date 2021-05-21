@@ -1,0 +1,7 @@
+C:\Users\ash\Desktop\Basic_C_sharp\Welcome to Package Express\bin\Debug\Welcome to Package Express.exe.config
+C:\Users\ash\Desktop\Basic_C_sharp\Welcome to Package Express\bin\Debug\Welcome to Package Express.exe
+C:\Users\ash\Desktop\Basic_C_sharp\Welcome to Package Express\bin\Debug\Welcome to Package Express.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\Welcome to Package Express\obj\Debug\Welcome to Package Express.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\Basic_C_sharp\Welcome to Package Express\obj\Debug\Welcome to Package Express.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\Welcome to Package Express\obj\Debug\Welcome to Package Express.exe
+C:\Users\ash\Desktop\Basic_C_sharp\Welcome to Package Express\obj\Debug\Welcome to Package Express.pdb
