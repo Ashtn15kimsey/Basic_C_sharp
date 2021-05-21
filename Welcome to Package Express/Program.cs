@@ -18,8 +18,10 @@ namespace Welcome_to_Package_Express
 
 
             if (packageweight > 50)
+            {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.”");
-            Console.ReadLine();
+                Console.ReadLine();
+            }
 
             Console.WriteLine("Please enter the package width");
             int width = Convert.ToInt32(Console.ReadLine());

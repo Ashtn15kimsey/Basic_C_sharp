@@ -1,0 +1,6 @@
+C:\Users\ash\Desktop\Basic_C_sharp\switchStatment\bin\Debug\switchStatment.exe.config
+C:\Users\ash\Desktop\Basic_C_sharp\switchStatment\bin\Debug\switchStatment.exe
+C:\Users\ash\Desktop\Basic_C_sharp\switchStatment\bin\Debug\switchStatment.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\switchStatment\obj\Debug\switchStatment.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\switchStatment\obj\Debug\switchStatment.exe
+C:\Users\ash\Desktop\Basic_C_sharp\switchStatment\obj\Debug\switchStatment.pdb
