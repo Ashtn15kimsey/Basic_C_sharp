@@ -1,0 +1,7 @@
+C:\Users\ash\Desktop\Basic_C_sharp\stringAssignment\bin\Debug\stringAssignment.exe.config
+C:\Users\ash\Desktop\Basic_C_sharp\stringAssignment\bin\Debug\stringAssignment.exe
+C:\Users\ash\Desktop\Basic_C_sharp\stringAssignment\bin\Debug\stringAssignment.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\stringAssignment\obj\Debug\stringAssignment.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\Basic_C_sharp\stringAssignment\obj\Debug\stringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\stringAssignment\obj\Debug\stringAssignment.exe
+C:\Users\ash\Desktop\Basic_C_sharp\stringAssignment\obj\Debug\stringAssignment.pdb
