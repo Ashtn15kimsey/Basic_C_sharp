@@ -1,0 +1,7 @@
+C:\Users\ash\Desktop\Basic_C_sharp\AppAssignment\bin\Debug\AppAssignment.exe.config
+C:\Users\ash\Desktop\Basic_C_sharp\AppAssignment\bin\Debug\AppAssignment.exe
+C:\Users\ash\Desktop\Basic_C_sharp\AppAssignment\bin\Debug\AppAssignment.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\AppAssignment\obj\Debug\AppAssignment.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\Basic_C_sharp\AppAssignment\obj\Debug\AppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\AppAssignment\obj\Debug\AppAssignment.exe
+C:\Users\ash\Desktop\Basic_C_sharp\AppAssignment\obj\Debug\AppAssignment.pdb

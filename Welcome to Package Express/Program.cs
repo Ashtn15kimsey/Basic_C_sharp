@@ -36,7 +36,7 @@ namespace Welcome_to_Package_Express
             { 
 
                 Console.WriteLine("“Package too big to be shipped via Package Express.”");
-                Console.ReadLine();
+                return;
             }
 
             double total = (height * width * length) * packageweight / 100;
