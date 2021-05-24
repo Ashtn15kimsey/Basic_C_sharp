@@ -1,0 +1,7 @@
+C:\Users\ash\Desktop\Basic_C_sharp\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\ash\Desktop\Basic_C_sharp\Arrays\bin\Debug\Arrays.exe
+C:\Users\ash\Desktop\Basic_C_sharp\Arrays\bin\Debug\Arrays.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\Basic_C_sharp\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\Arrays\obj\Debug\Arrays.exe
+C:\Users\ash\Desktop\Basic_C_sharp\Arrays\obj\Debug\Arrays.pdb
