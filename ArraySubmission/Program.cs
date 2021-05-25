@@ -33,8 +33,16 @@ namespace ArraySubmission
             intList.Add("I'm 23 years old");
             intList.Remove("The sky is blue today");
             Console.WriteLine("select and index");
-
-
+            int x = Convert.ToInt32(Console.ReadLine());
+            if (x >= 0 && x <= 1)
+            {
+                Console.WriteLine(intList[x]);
+            }
+            else
+            {
+                Console.WriteLine("sorry but that integer doesnt exist");
+            }
+            Console.ReadLine();
 
 
                 
