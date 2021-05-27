@@ -8,17 +8,15 @@ namespace AppAssignment
     {
         static void Main(string[] args)
         {
-            string[] fruits = { "apples\t", "pineApples\t", "pears\t" };
-            Console.WriteLine("Add favortie fruit");
-            string addFruit = Console.ReadLine();
-            foreach (string frutis in fruits) ;
+            int a = 6;
+            /* do loop execution */
+            do
             {
-                string NewFruit = fruits + addFruit;
-                Console.WriteLine(newFruit);
-                
+                Console.WriteLine("value of a: {0}", a);
+                a = a + 1;
             }
+            while (a < 30);
             Console.ReadLine();
-
 
         }
     }
