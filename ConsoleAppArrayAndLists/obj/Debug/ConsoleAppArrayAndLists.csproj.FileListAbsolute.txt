@@ -1,0 +1,7 @@
+C:\Users\ash\Desktop\Basic_C_sharp\ConsoleAppArrayAndLists\bin\Debug\ConsoleAppArrayAndLists.exe.config
+C:\Users\ash\Desktop\Basic_C_sharp\ConsoleAppArrayAndLists\bin\Debug\ConsoleAppArrayAndLists.exe
+C:\Users\ash\Desktop\Basic_C_sharp\ConsoleAppArrayAndLists\bin\Debug\ConsoleAppArrayAndLists.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\ConsoleAppArrayAndLists\obj\Debug\ConsoleAppArrayAndLists.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\Basic_C_sharp\ConsoleAppArrayAndLists\obj\Debug\ConsoleAppArrayAndLists.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\ConsoleAppArrayAndLists\obj\Debug\ConsoleAppArrayAndLists.exe
+C:\Users\ash\Desktop\Basic_C_sharp\ConsoleAppArrayAndLists\obj\Debug\ConsoleAppArrayAndLists.pdb

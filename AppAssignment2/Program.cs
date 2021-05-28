@@ -8,6 +8,15 @@ namespace AppAssignment
     {
         static void Main(string[] args)
         {
+            int i = 0
+            while (i <)
+            {
+                Console.WriteLine(i);
+                i++;
+            }
+
+
+
             int a = 6;
             /* do loop execution */
             do
