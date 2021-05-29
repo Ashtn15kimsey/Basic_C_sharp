@@ -1,0 +1,2 @@
+C:\Users\ash\Desktop\Basic_C_sharp\ExceptionalHandling\obj\Debug\ExceptionalHandling.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\Basic_C_sharp\ExceptionalHandling\obj\Debug\ExceptionalHandling.csproj.CoreCompileInputs.cache
