@@ -35,5 +35,7 @@ namespace ExceptionalHandling
             {
                 Console.WriteLine(ex.Message);
             }
+            Console.ReadLine();
+        }
     }
 }
