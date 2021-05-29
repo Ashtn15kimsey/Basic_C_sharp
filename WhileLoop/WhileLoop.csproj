@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{94ABB415-0567-4568-B979-2DBD28543A45}</ProjectGuid>
+    <ProjectGuid>{CF6E2021-DBB9-4AFF-B23D-C08F793CF028}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AppAssignment</RootNamespace>
-    <AssemblyName>AppAssignment</AssemblyName>
+    <RootNamespace>WhileLoop</RootNamespace>
+    <AssemblyName>WhileLoop</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
