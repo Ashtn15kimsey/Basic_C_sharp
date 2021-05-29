@@ -6,6 +6,22 @@ namespace WhileLoop
     {
         static void Main(string[] args)
         {
+            int i = 0;
+            while (i < 10)
+            {
+                Console.WriteLine("i = {0}", i);
+
+                i++;
+
+                if (i > 10)
+                    break;
+            }
+
+
+
+
+
+
             Console.WriteLine("guess a number");
             int number = Convert.ToInt32(Console.ReadLine());
             bool IsGuessed = number == 14;
@@ -58,5 +74,7 @@ namespace WhileLoop
 
             Console.ReadLine();
         }
+
+        
     }
 }
