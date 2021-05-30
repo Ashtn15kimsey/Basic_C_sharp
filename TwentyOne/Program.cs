@@ -11,7 +11,9 @@ namespace TwentyOne
         static void Main(string[] args)
         {
             Deck deck = new Deck();
-            deck = Shuffle(deck);
+            int timesShuffled = 0;
+            deck = Shuffle(deck, out timesShuffled, 3);
+           
 
 
             foreach (card card in deck.cards)
@@ -19,25 +21,42 @@ namespace TwentyOne
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
             Console.WriteLine(deck.cards.Count);
+            Console.WriteLine("Times Shuffled {0}", timesShuffled);
             Console.ReadLine();
 
 
         }
-        public static Deck Shuffle(Deck deck)
-        {
-            List<card> TempList = new List<card>();
-            Random random = new Random();
+        public static Deck Shuffle(Deck deck, out int timesShuffle, int times = 1)
 
-            while (deck.cards.Count > 0)
+        {
+            timesShuffle = 0;
+            for (int i = 0; i < times; i++)
             {
-                int randomIndex = random.Next(0, deck.cards.Count);
-                TempList.Add(deck.cards[randomIndex]);
-                deck.cards.RemoveAt(randomIndex);
+
+                timesShuffle++;
+                List<card> TempList = new List<card>();
+                Random random = new Random();
+
+                while (deck.cards.Count > 0)
+                {
+                    int randomIndex = random.Next(0, deck.cards.Count);
+                    TempList.Add(deck.cards[randomIndex]);
+                    deck.cards.RemoveAt(randomIndex);
+                }
+                deck.cards = TempList;
             }
-            deck.cards = TempList;
+            
             return deck;
 
 
+        }
+        //public static Deck Shuffle(Deck deck, int times)
+        //{
+        //    for (int i = 0; i < times; i++)
+        //    {
+        //        deck = Shuffle(deck);
+        //    }
+        //    return deck;
         }
     }
 }

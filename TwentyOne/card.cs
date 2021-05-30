@@ -10,8 +10,8 @@ namespace TwentyOne
     {
         public card()
         {
-            //Suit = "Spades";
-            //Face = "Two";
+            Suit = "Spades";
+            Face = "Two";
         }
         public string Suit { get; set; }
         public string Face { get; set; }

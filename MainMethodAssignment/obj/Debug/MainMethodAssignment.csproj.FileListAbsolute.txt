@@ -1,0 +1,7 @@
+C:\Users\ash\Desktop\Basic_C_sharp\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe.config
+C:\Users\ash\Desktop\Basic_C_sharp\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe
+C:\Users\ash\Desktop\Basic_C_sharp\MainMethodAssignment\bin\Debug\MainMethodAssignment.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\MainMethodAssignment\obj\Debug\MainMethodAssignment.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\Basic_C_sharp\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\MainMethodAssignment\obj\Debug\MainMethodAssignment.exe
+C:\Users\ash\Desktop\Basic_C_sharp\MainMethodAssignment\obj\Debug\MainMethodAssignment.pdb

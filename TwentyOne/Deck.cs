@@ -34,6 +34,6 @@ namespace TwentyOne
 
 
         }
-        public List<card> cards { get; set; };
+        public List<card> cards { get; set; }
     }
 }
