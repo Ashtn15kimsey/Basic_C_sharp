@@ -1,0 +1,7 @@
+C:\Users\ash\Desktop\Basic_C_sharp\ClassSubmission\bin\Debug\ClassSubmission.exe.config
+C:\Users\ash\Desktop\Basic_C_sharp\ClassSubmission\bin\Debug\ClassSubmission.exe
+C:\Users\ash\Desktop\Basic_C_sharp\ClassSubmission\bin\Debug\ClassSubmission.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\ClassSubmission\obj\Debug\ClassSubmission.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\Basic_C_sharp\ClassSubmission\obj\Debug\ClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\ClassSubmission\obj\Debug\ClassSubmission.exe
+C:\Users\ash\Desktop\Basic_C_sharp\ClassSubmission\obj\Debug\ClassSubmission.pdb

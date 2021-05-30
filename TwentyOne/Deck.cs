@@ -35,5 +35,30 @@ namespace TwentyOne
 
         }
         public List<card> cards { get; set; }
+
+        public void Shuffle(int times = 1)
+
+        {
+            
+            for (int i = 0; i < times; i++)
+            {
+
+                
+                List<card> TempList = new List<card>();
+                Random random = new Random();
+
+                while (cards.Count > 0)
+                {
+                    int randomIndex = random.Next(0, cards.Count);
+                    TempList.Add(cards[randomIndex]);
+                    cards.RemoveAt(randomIndex);
+                }
+                cards = TempList;
+            }
+
+            
+
+
+        }
     }
 }
