@@ -1,0 +1,7 @@
+C:\Users\ash\Desktop\Basic_C_sharp\TwoIntiger2\bin\Debug\TwoIntiger2.exe.config
+C:\Users\ash\Desktop\Basic_C_sharp\TwoIntiger2\bin\Debug\TwoIntiger2.exe
+C:\Users\ash\Desktop\Basic_C_sharp\TwoIntiger2\bin\Debug\TwoIntiger2.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\TwoIntiger2\obj\Debug\TwoIntiger2.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\Basic_C_sharp\TwoIntiger2\obj\Debug\TwoIntiger2.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\TwoIntiger2\obj\Debug\TwoIntiger2.exe
+C:\Users\ash\Desktop\Basic_C_sharp\TwoIntiger2\obj\Debug\TwoIntiger2.pdb
