@@ -1,0 +1,7 @@
+C:\Users\ash\Desktop\Basic_C_sharp\MethodAndObjectAssignment\bin\Debug\MethodAndObjectAssignment.exe.config
+C:\Users\ash\Desktop\Basic_C_sharp\MethodAndObjectAssignment\bin\Debug\MethodAndObjectAssignment.exe
+C:\Users\ash\Desktop\Basic_C_sharp\MethodAndObjectAssignment\bin\Debug\MethodAndObjectAssignment.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\MethodAndObjectAssignment\obj\Debug\MethodAndObjectAssignment.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\Basic_C_sharp\MethodAndObjectAssignment\obj\Debug\MethodAndObjectAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\MethodAndObjectAssignment\obj\Debug\MethodAndObjectAssignment.exe
+C:\Users\ash\Desktop\Basic_C_sharp\MethodAndObjectAssignment\obj\Debug\MethodAndObjectAssignment.pdb
