@@ -81,18 +81,19 @@ namespace ConsoleAppArrayAndLists
             List<string> name = new List<string>() { "Ash", "Ash" "john", "rob" };
             List<string> display = new List<string>();
 
-            foreach (string name in name)
+            foreach (string item in name)
             {
                 if (display.Contains(item))
-                    Console.WriteLine(item + " has appeared before!");
+                {
+                    Console.WriteLine(item + "has appeared before!");
                 }
                 else
                 {
-                    Console.WriteLine(item + " has not appeared before!");
+                    Console.WriteLine(itme + "has not appeared before!");
                 }
-                 display.Add(item);
-             }
-             Console.Readline();
+                display.Add(item);
+            }
+            Console.ReadLine();
            
 
             
