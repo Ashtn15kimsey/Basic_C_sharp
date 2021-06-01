@@ -85,14 +85,14 @@ namespace ConsoleAppArrayAndLists
             {
                 if (display.Contains(item))
                     Console.WriteLine(item + " has appeared before!");
-            }
-            else
-            {
-                Console.WriteLine(item + " has not appeared before!");
-            }
-            display.Add(item);
-        }
-        Console.Readline();
+                }
+                else
+                {
+                    Console.WriteLine(item + " has not appeared before!");
+                }
+                 display.Add(item);
+             }
+             Console.Readline();
            
 
             
