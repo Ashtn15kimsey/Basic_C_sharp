@@ -12,8 +12,8 @@ namespace MainMethodAssignment
         {
            Math a = new Math();
             int x = a.Subtraction(42);
-            double p = a.Multiplication(24.7);
-            int z = a.Division(4);
+            double p = a.Subtraction(24.7);
+            int z = a.Subtraction(4);
 
             Console.WriteLine(x);
             Console.WriteLine(p);
