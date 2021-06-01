@@ -16,6 +16,10 @@ namespace MainMethodAssignment
         {
             return p - 12;
         }
+        public void Subtraction(int x)
+        {
+             return  x / 2;
+        }
         public int Subtraction(string z)
         {
             int A = Convert.ToInt32(z);

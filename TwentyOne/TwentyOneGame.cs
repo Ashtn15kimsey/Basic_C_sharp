@@ -14,7 +14,7 @@ namespace TwentyOne
         }
         public override void ListPlayer()
         {
-           Console.WriteLine("Welcome to 21 players")
+            Console.WriteLine("Welcome to 21 players");
             base.ListPlayer();
         }
         public void walkAway(player player)

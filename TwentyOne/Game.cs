@@ -11,7 +11,7 @@ namespace TwentyOne
 
     {
 
-        public List<string> Players { get; set; }
+        public List<player> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
@@ -19,9 +19,9 @@ namespace TwentyOne
 
         public  virtual void ListPlayer()
         {
-            foreach (string player in Players)
+            foreach (player player in Players)
             {
-                Console.WriteLine(player);
+                Console.WriteLine(player.Name);
 
             }
         }

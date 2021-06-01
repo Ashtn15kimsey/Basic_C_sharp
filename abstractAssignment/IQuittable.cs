@@ -8,5 +8,6 @@ namespace abstractAssignment
 {
     interface IQuittable
     {
+        public void Quit(Employee person);
     }
 }
