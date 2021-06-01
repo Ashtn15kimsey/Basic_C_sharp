@@ -78,18 +78,22 @@ namespace ConsoleAppArrayAndLists
             //     }
 
             // List of strings with two identitcal strings 
-            List<string> name = new List<string>() { "Ash", "Ash" };
+            List<string> name = new List<string>() { "Ash", "Ash" "john", "rob" };
             List<string> display = new List<string>();
 
             foreach (string name in name)
             {
-                if (name == "Ash")
-                {
-                    display.Add(name);
-                }
+                if (display.Contains(item))
+                    Console.WriteLine(item + " has appeared before!");
             }
-            Console.WriteLine("Ash:" + display.Count);
-            Console.ReadLine();
+            else
+            {
+                Console.WriteLine(item + " has not appeared before!");
+            }
+            display.Add(item);
+        }
+        Console.Readline();
+           
 
             
 
