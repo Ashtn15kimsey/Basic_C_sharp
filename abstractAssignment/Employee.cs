@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace abstractAssignment
 {
-    public class Employee : person
+    public class Employee : person //IQuittable
     {
         public void SayName(string FirstName, string LastName)
         {

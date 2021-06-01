@@ -1,0 +1,2 @@
+C:\Users\ash\Desktop\Basic_C_sharp\OperatorSubmission\obj\Debug\OperatorSubmission.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\Basic_C_sharp\OperatorSubmission\obj\Debug\OperatorSubmission.csproj.CoreCompileInputs.cache
