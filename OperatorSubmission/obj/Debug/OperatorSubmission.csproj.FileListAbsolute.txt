@@ -1,2 +1,7 @@
 C:\Users\ash\Desktop\Basic_C_sharp\OperatorSubmission\obj\Debug\OperatorSubmission.csprojAssemblyReference.cache
 C:\Users\ash\Desktop\Basic_C_sharp\OperatorSubmission\obj\Debug\OperatorSubmission.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\OperatorSubmission\bin\Debug\OperatorSubmission.exe.config
+C:\Users\ash\Desktop\Basic_C_sharp\OperatorSubmission\bin\Debug\OperatorSubmission.exe
+C:\Users\ash\Desktop\Basic_C_sharp\OperatorSubmission\bin\Debug\OperatorSubmission.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\OperatorSubmission\obj\Debug\OperatorSubmission.exe
+C:\Users\ash\Desktop\Basic_C_sharp\OperatorSubmission\obj\Debug\OperatorSubmission.pdb

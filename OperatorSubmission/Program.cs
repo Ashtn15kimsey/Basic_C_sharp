@@ -19,8 +19,8 @@ namespace OperatorSubmission
             Employee example2 = new Employee();
 
             example2.FirstName = "Andy";
-            exmaple2.LastName = "Roberts";
-            example2.ID 34768;
+            example2.LastName = "Roberts";
+            example2.ID =  347689;
 
             Console.ReadLine();
         }
