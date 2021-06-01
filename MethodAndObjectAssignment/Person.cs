@@ -13,7 +13,7 @@ namespace MethodAndObjectAssignment
 
         public void SayName()
         {
-            Console.WriteLine("Name:{0} {1}",[full name]);
+            Console.WriteLine("Name:{0} {1}", FirstName, LastName);
         }
     }
 }
