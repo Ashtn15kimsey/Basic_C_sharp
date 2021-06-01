@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassSubmission
 {
-    class Divide
+    public class Divide
     {
         public void Division(int x)
         {

@@ -12,13 +12,14 @@ namespace MainMethodAssignment
         {
             return x - 4;
         }
-        public double Multiplication(double p)
+        public double Subtraction(double p)
         {
-            return p * 12;
+            return p - 12;
         }
-        public int Division(int z)
+        public int Subtraction(string z)
         {
-            return z / 4;
+            int A = Convert.ToInt32(z);
+            return A - 5;
         }
         
         
