@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace abstractAssignment
 {
-    class Employee
+    public class Employee : person
     {
+        public void SayName(string FirstName, string LastName)
+        {
+            Console.WriteLine("Name:{0} {1}", FirstName, LastName);
+            Console.ReadLine();
+        }
     }
-}
+    //public void Quit(Employee person)
+    {
+        //throw new NotImplementedException();
+    }
+//public static bool operator ==(Employee emp1, Employee ep2)
+
+
