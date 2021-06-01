@@ -10,14 +10,12 @@ namespace OperatorSubmission
     {
         public int ID { get; set; }
 
-        public override bool Equals(object obj)
+        public static bool operator ==(Employee employee, Employee employee2 )
         {
-            if (obj is null)  return false;
-            if (ReferenceEquals(this, obj)) return true;
-
-            if (obj.GetType() != this.GetType()) return false;
-
-            return this.ID.Equals(((Employee)obj).ID);
+            return (employee.ID == employee2.ID); 
+        }
+        {
+            
 
         }
 
