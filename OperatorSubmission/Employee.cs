@@ -6,22 +6,45 @@ using System.Threading.Tasks;
 
 namespace OperatorSubmission
 {
-    class Employee : Person 
+    class Employee : Person
     {
         public int ID { get; set; }
 
-        public static bool operator ==(Employee employee, Employee employee2 )
+        public static bool operator ==(Employee employee, Employee employee2)
         {
-            return (employee.ID == employee2.ID); 
+            return (employee.ID == employee2.ID);
         }
-        {
-            
 
+        public static bool operator !=(Employee employee, Employee employee2)
+        {
+            return (employee.ID != employee2.ID);
         }
+
+    }
+        
+        
+        
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 
     }
-}
