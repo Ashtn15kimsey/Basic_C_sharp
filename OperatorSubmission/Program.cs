@@ -22,7 +22,16 @@ namespace OperatorSubmission
             example2.LastName = "Roberts";
             example2.ID =  347689;
 
-
+            bool condition = true;
+           if (example == example2)
+            {
+                Console.WriteLine("Its equal");
+            }
+            else
+            {
+                Console.WriteLine("It is not equal");
+            }
+            
 
             Console.ReadLine();
         }
