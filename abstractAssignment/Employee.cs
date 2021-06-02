@@ -14,10 +14,11 @@ namespace abstractAssignment
             Console.ReadLine();
         }
     }
-    //public void Quit(Employee person)
+    public void Quit(Employee person)
     {
-        //throw new NotImplementedException();
+        throw new NotImplementedException();
     }
-//public static bool operator ==(Employee emp1, Employee ep2)
+public static bool operator ==(Employee emp1, Employee ep2)
+        return Employee.
 
 

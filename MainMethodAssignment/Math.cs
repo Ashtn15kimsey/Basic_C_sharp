@@ -12,9 +12,10 @@ namespace MainMethodAssignment
         {
             return x - 4;
         }
-        public double Subtraction(double p)
+        public int Subtraction(decimal p)
         {
-            return p - 12;
+            int result = Convert.ToInt32(p);
+            return result  - 12;
         }
         public void Subtraction(int x)
         {

@@ -93,6 +93,7 @@ namespace ConsoleAppArrayAndLists
                 }
                 display.Add(item);
             }
+            Console.WriteLine("Ash :" + display.Count);
             Console.ReadLine();
            
 
