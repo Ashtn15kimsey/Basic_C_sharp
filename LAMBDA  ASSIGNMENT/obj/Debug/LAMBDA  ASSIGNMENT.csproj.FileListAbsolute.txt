@@ -1,0 +1,6 @@
+C:\Users\ash\Desktop\Basic_C_sharp\LAMBDA  ASSIGNMENT\obj\Debug\LAMBDA  ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\LAMBDA  ASSIGNMENT\bin\Debug\LAMBDA  ASSIGNMENT.exe.config
+C:\Users\ash\Desktop\Basic_C_sharp\LAMBDA  ASSIGNMENT\bin\Debug\LAMBDA  ASSIGNMENT.exe
+C:\Users\ash\Desktop\Basic_C_sharp\LAMBDA  ASSIGNMENT\bin\Debug\LAMBDA  ASSIGNMENT.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\LAMBDA  ASSIGNMENT\obj\Debug\LAMBDA  ASSIGNMENT.exe
+C:\Users\ash\Desktop\Basic_C_sharp\LAMBDA  ASSIGNMENT\obj\Debug\LAMBDA  ASSIGNMENT.pdb
