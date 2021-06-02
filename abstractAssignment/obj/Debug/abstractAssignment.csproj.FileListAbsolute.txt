@@ -1,2 +1,6 @@
-C:\Users\ash\Desktop\Basic_C_sharp\abstractAssignment\obj\Debug\abstractAssignment.csprojAssemblyReference.cache
 C:\Users\ash\Desktop\Basic_C_sharp\abstractAssignment\obj\Debug\abstractAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\abstractAssignment\bin\Debug\abstractAssignment.exe.config
+C:\Users\ash\Desktop\Basic_C_sharp\abstractAssignment\bin\Debug\abstractAssignment.exe
+C:\Users\ash\Desktop\Basic_C_sharp\abstractAssignment\bin\Debug\abstractAssignment.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\abstractAssignment\obj\Debug\abstractAssignment.exe
+C:\Users\ash\Desktop\Basic_C_sharp\abstractAssignment\obj\Debug\abstractAssignment.pdb

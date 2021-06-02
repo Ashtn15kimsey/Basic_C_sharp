@@ -10,23 +10,24 @@ namespace abstractAssignment
     {
         static void Main(string[] args)
         {
-            Employee<string> person = new Employee<string>();
+            //Employee<string> person = new Employee<string>();
 
-            List<string> FistName = new List<string>()
-            {
-                "ash", "mike", "tom", "eric"
-            };
-            List<string> Lastname = new List<string>()
-            {
-                "brown","johnson","peters","homer"
-            };
-            foreach (var firsName in FistName)
-            {
-                Employee.Add(new Employee(firsName, FistName));
-                
-            }
+            //List<string> FistName = new List<string>()
+            //{
+            //    "ash", "mike", "tom", "eric"
+            //};
+            //List<string> Lastname = new List<string>()
+            //{
+            //    "brown","johnson","peters","homer"
+            //};
+            //foreach (var firsName in FistName)
+            //{
+            //    Employee.Add(new Employee(firsName, FistName));
+
+            //}
+            Employee employee = new Employee() { FirstName = "Sample", LastName = "Student" };
             Console.WriteLine();
-            person.SayName();
+            employee.SayName();
             Console.ReadLine();
 
         }
