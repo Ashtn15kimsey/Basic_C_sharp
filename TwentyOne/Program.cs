@@ -10,17 +10,19 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            card card1 = new card();
-            card card2 = card1;
-            card1.Face = Face.Eight;
-            card2.Face = Face.King;
+            Deck deck = new Deck();
 
-            Console.WriteLine(card1.Face);
+            //int count = deck.cards.Count(x => x.Face == Face.Ace);
+
+            List<card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
+            foreach (card card in newList)
+            
+            Console.WriteLine(count);
+
+           
             
             
-            
-            //Deck deck = new Deck();
-            //deck.Shuffle(3);
+           // deck.Shuffle(3);
 
             //foreach (card card in deck.cards)
             //Console.WriteLine(deck.cards.Count);
