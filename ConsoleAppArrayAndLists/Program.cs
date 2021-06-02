@@ -78,7 +78,7 @@ namespace ConsoleAppArrayAndLists
             //     }
 
             // List of strings with two identitcal strings 
-            List<string> name = new List<string>() { "Ash", "Ash" "john", "rob" };
+            List<string> name = new List<string>() { "Ash", "Ash", "john", "rob" };
             List<string> display = new List<string>();
 
             foreach (string item in name)
@@ -89,12 +89,53 @@ namespace ConsoleAppArrayAndLists
                 }
                 else
                 {
-                    Console.WriteLine(itme + "has not appeared before!");
+                    Console.WriteLine(item + "has not appeared before!");
                 }
                 display.Add(item);
             }
             Console.WriteLine("Ash :" + display.Count);
             Console.ReadLine();
+
+            //Part 5!
+            List<string> name1 = new List<string>() { "Ash", "Ash", "John", "rob" };
+            Console.WriteLine("Select item from the list");
+            string AddName = Console.ReadLine();
+
+            
+            while(!(AddName == "Ash" || AddName == "John" || AddName == "rob"))
+            {
+                Console.WriteLine("enter one of the three choices");
+                AddName = Console.ReadLine();
+            }
+            Console.WriteLine("The match is at the index of: " );
+            for (int i = 0; i < name1.Count; i++)
+            {
+                if (AddName == name1[i])
+                {
+                    Console.WriteLine(i);
+                }
+                Console.ReadLine();
+
+            }
+
+
+
+
+            //for (int i = 0; i < name1.Count; i++)
+            //{
+            //    if (name1.Contains(AddName))
+            //    {
+
+            //        Console.WriteLine(AddName + "Is at the index of" + i);
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Text doen't appear on the list");
+            //    }
+            //    Console.ReadLine();
+            //}
+
+
            
 
             
