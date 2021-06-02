@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace abstractAssignment
+namespace NumberStruct
 {
-    interface IQuittable
+    class Program
     {
-       void Quit(Employee person);
+        static void Main(string[] args)
+        {
+        }
     }
 }

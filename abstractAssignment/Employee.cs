@@ -12,13 +12,14 @@ namespace abstractAssignment
         {
             base.SayName();
         }
-    }
-   // public void Quit(Employee person)
-//    {
-//        throw new NotImplementedException();
-//    }
-  }
-//public static bool operator ==(Employee emp1, Employee ep2)
-//      return Employee.
+   // }
+  //  public void Quit(Employee person)
+  //  {
+  //      throw new NotImplementedException();
+  //  }
+  //}
+  //  public static bool operator ==(Employee emp1, Employee ep2)
+  //    return Employee.
+    
 
 
