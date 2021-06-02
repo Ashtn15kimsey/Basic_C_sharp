@@ -28,6 +28,9 @@ namespace abstractAssignment
             Employee employee = new Employee() { FirstName = "Sample", LastName = "Student" };
             Console.WriteLine();
             employee.SayName();
+            IQuittable emp1 = new Employee();
+            emp1.Quit();
+            
             Console.ReadLine();
 
         }
