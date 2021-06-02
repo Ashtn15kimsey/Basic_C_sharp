@@ -1,0 +1,7 @@
+C:\Users\ash\Desktop\Basic_C_sharp\NumberStruct\bin\Debug\NumberStruct.exe.config
+C:\Users\ash\Desktop\Basic_C_sharp\NumberStruct\bin\Debug\NumberStruct.exe
+C:\Users\ash\Desktop\Basic_C_sharp\NumberStruct\bin\Debug\NumberStruct.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\NumberStruct\obj\Debug\NumberStruct.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\Basic_C_sharp\NumberStruct\obj\Debug\NumberStruct.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\NumberStruct\obj\Debug\NumberStruct.exe
+C:\Users\ash\Desktop\Basic_C_sharp\NumberStruct\obj\Debug\NumberStruct.pdb
