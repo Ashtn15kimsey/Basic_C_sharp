@@ -8,6 +8,9 @@ namespace TwentyOne
 {
    public class player
     {
+        public player(string name) : this(name, 100)
+        {
+        }
         public player(string name, int beginingBalance)
         {
             Hand = new List<card>();

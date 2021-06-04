@@ -1,0 +1,7 @@
+C:\Users\ash\Desktop\Basic_C_sharp\Constructor Assigment\obj\Debug\Constructor Assigment.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\Basic_C_sharp\Constructor Assigment\obj\Debug\Constructor Assigment.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\Constructor Assigment\bin\Debug\Constructor Assigment.exe.config
+C:\Users\ash\Desktop\Basic_C_sharp\Constructor Assigment\bin\Debug\Constructor Assigment.exe
+C:\Users\ash\Desktop\Basic_C_sharp\Constructor Assigment\bin\Debug\Constructor Assigment.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\Constructor Assigment\obj\Debug\Constructor Assigment.exe
+C:\Users\ash\Desktop\Basic_C_sharp\Constructor Assigment\obj\Debug\Constructor Assigment.pdb
