@@ -1,0 +1,7 @@
+C:\Users\ash\Desktop\Basic_C_sharp\TryCatch Assignment\bin\Debug\TryCatch Assignment.exe.config
+C:\Users\ash\Desktop\Basic_C_sharp\TryCatch Assignment\bin\Debug\TryCatch Assignment.exe
+C:\Users\ash\Desktop\Basic_C_sharp\TryCatch Assignment\bin\Debug\TryCatch Assignment.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\TryCatch Assignment\obj\Debug\TryCatch Assignment.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\Basic_C_sharp\TryCatch Assignment\obj\Debug\TryCatch Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\TryCatch Assignment\obj\Debug\TryCatch Assignment.exe
+C:\Users\ash\Desktop\Basic_C_sharp\TryCatch Assignment\obj\Debug\TryCatch Assignment.pdb
