@@ -1,0 +1,62 @@
+﻿<?xml version = "1.0" encoding = "utf-8"?>
+<Project TooVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuldToolisVersion)\Microaoft.common.props" Condition="Exists('$(MSBuildExtensionPath)\$(MSBuildToolVersion)\Microsoft.common.props')"/>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == ''">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' >AnyCPU"</Platform>"
+    <ProjectGuid> {DC70339C-0470-4ABC-A0D5-AB7EB172056B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Casino</RootNamespace>
+    <AssemblyName>Casino</AssemblyName>
+    <TargetFrameworkProfile>v4.7.2</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <Determinist>true</Determinist>
+  </PropertyGroup>
+  <PropertyGroup>
+    Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>true</DebugType>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPathb>bin\Debug\</OutputPathb>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="Sysytem.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cards.cs" />
+    <Compile Include="Dealer.cs" />
+    <Compile Include="FraudException.cs"/>
+    <Compile Include="Game.cs"/>
+    <Compile Include="IWalkAway"/>
+    <Compile Includes="Player.cs"/>
+    <Compile Exclude="Properties\AssemblyInfo.cs"/>
+    <Compile Exclude="TwentyOneDealer.cs"/>
+    <Compile Include="TwentyOneGame.cs"/>
+    <Compile Include="TwentyOneRules.cs"/>
+
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Micosoft.CSharp.Targets"/>
+</Project>
+    
+    
+ 
+    
