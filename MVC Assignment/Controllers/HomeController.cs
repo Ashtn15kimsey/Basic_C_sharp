@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MVC_Assignment.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -44,8 +45,34 @@ namespace MVC_Assignment.Controllers
             return View(dayTimeInstructor);
         }
         public ActionResult Instructor()
+ 
         {
             return View();
+        }
+        public ActionResult Instructors()
+        {
+            List<Instructor> instructors = new List<Instructor>
+            {
+                new Instructor
+                {
+                    Id = 1,
+                    FirstName = "Rick",
+                    LastName = "Ramen"
+                },
+                new Instructor
+                {
+                    Id = 2,
+                    FirstName = "Brett",
+                    LastName = "Calender"
+                },
+                new Instructor
+                {
+                    Id = 3,
+                    FirstName = "Adam",
+                    LastName = "Smithsonian"
+                }
+            };
+            return View(instructors);
         }
         
     }
