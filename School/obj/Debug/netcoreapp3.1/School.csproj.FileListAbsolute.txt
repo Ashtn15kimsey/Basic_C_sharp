@@ -1,0 +1,7 @@
+C:\Users\ash\Desktop\Basic_C_sharp\School\obj\Debug\netcoreapp3.1\School.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\Basic_C_sharp\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+C:\Users\ash\Desktop\Basic_C_sharp\School\obj\Debug\netcoreapp3.1\School.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\School\obj\Debug\netcoreapp3.1\School.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ash\Desktop\Basic_C_sharp\School\obj\Debug\netcoreapp3.1\School.RazorAssemblyInfo.cache
+C:\Users\ash\Desktop\Basic_C_sharp\School\obj\Debug\netcoreapp3.1\School.RazorAssemblyInfo.cs
