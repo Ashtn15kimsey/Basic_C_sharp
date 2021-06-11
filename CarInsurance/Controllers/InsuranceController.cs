@@ -56,7 +56,7 @@ namespace CarInsurance.Controllers
                 {
                     insurance.Quote += 100;
                 }
-                if (age > 19 &&  age < 25)
+                if (age >= 19 &&  age <= 25)
                 {
                     insurance.Quote += 50;
                 }
@@ -73,11 +73,11 @@ namespace CarInsurance.Controllers
                 {
                     insurance.Quote += 25;
                 }
-                if (insurance.CarMake == "porshe")
+                if (insurance.CarMake == "porsche")
                 {
                     insurance.Quote += 25;
                 }
-                if (insurance.CarMake == "porshe" && insurance.CarMode == "911 carrera")
+                if (insurance.CarMake == "porsche" && insurance.CarMode == "911 carrera")
                 {
                     insurance.Quote += 25;
                 }
@@ -88,11 +88,11 @@ namespace CarInsurance.Controllers
                 }
                 if (insurance.DUI)
                 {
-                    insurance.Quote += 25 / 100;
+                    insurance.Quote *= 0.25m;
                 }
                 if (insurance.CoverageType)
                 {
-                    insurance.Quote += 50 / 100;
+                    insurance.Quote *= 0.5m;
                 }
                 db.Insurances.Add(insurance);
                 db.SaveChanges();
