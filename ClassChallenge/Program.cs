@@ -22,5 +22,6 @@ namespace ClassChallenge
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+        public static DateTime Now { get; set; }
     }
 }
