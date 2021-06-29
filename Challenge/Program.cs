@@ -13,8 +13,14 @@ namespace Challenge
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(DateTime.Now);
-            Console.ReadLine();
+            CreateHostBuilder(args).Build().Run();
         }
+
+        public static IHostBuilder CreateHostBuilder(string[] args) =>
+            Host.CreateDefaultBuilder(args)
+            .ConfigureWebHostDefaults(webBuilder =>
+            {
+                webBuilder.UseStartup<Startup>();
+            });
     }
 }

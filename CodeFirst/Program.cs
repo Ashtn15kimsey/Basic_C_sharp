@@ -16,6 +16,9 @@ namespace CodeFirst
 
                 ctx.Students.Add(stud);
                 ctx.SaveChanges();
+
+                Console.WriteLine("add name");
+                Console.ReadLine();
             }
         }
     }
