@@ -1,0 +1,16 @@
+C:\Users\ash\Desktop\Basic_C_sharp\JobChallenge\bin\Debug\net5.0-windows\JobChallenge.exe
+C:\Users\ash\Desktop\Basic_C_sharp\JobChallenge\bin\Debug\net5.0-windows\JobChallenge.deps.json
+C:\Users\ash\Desktop\Basic_C_sharp\JobChallenge\bin\Debug\net5.0-windows\JobChallenge.runtimeconfig.json
+C:\Users\ash\Desktop\Basic_C_sharp\JobChallenge\bin\Debug\net5.0-windows\JobChallenge.runtimeconfig.dev.json
+C:\Users\ash\Desktop\Basic_C_sharp\JobChallenge\bin\Debug\net5.0-windows\JobChallenge.dll
+C:\Users\ash\Desktop\Basic_C_sharp\JobChallenge\bin\Debug\net5.0-windows\ref\JobChallenge.dll
+C:\Users\ash\Desktop\Basic_C_sharp\JobChallenge\bin\Debug\net5.0-windows\JobChallenge.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\JobChallenge\obj\Debug\net5.0-windows\JobChallenge.csprojAssemblyReference.cache
+C:\Users\ash\Desktop\Basic_C_sharp\JobChallenge\obj\Debug\net5.0-windows\JobChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ash\Desktop\Basic_C_sharp\JobChallenge\obj\Debug\net5.0-windows\JobChallenge.AssemblyInfoInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\JobChallenge\obj\Debug\net5.0-windows\JobChallenge.AssemblyInfo.cs
+C:\Users\ash\Desktop\Basic_C_sharp\JobChallenge\obj\Debug\net5.0-windows\JobChallenge.csproj.CoreCompileInputs.cache
+C:\Users\ash\Desktop\Basic_C_sharp\JobChallenge\obj\Debug\net5.0-windows\JobChallenge.dll
+C:\Users\ash\Desktop\Basic_C_sharp\JobChallenge\obj\Debug\net5.0-windows\ref\JobChallenge.dll
+C:\Users\ash\Desktop\Basic_C_sharp\JobChallenge\obj\Debug\net5.0-windows\JobChallenge.pdb
+C:\Users\ash\Desktop\Basic_C_sharp\JobChallenge\obj\Debug\net5.0-windows\JobChallenge.genruntimeconfig.cache
